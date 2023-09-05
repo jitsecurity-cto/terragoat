@@ -12,6 +12,8 @@
 
 
 
+
+
 TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
 
 
