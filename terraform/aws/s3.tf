@@ -151,7 +151,7 @@ resource "aws_s3_bucket" "logs" {
     git_repo             = "terragoat"
     yor_trace            = "01946fe9-aae2-4c99-a975-e9b0d3a4696c"
     access_key3          = "AKIAIOSFODNN5EXAMPLE"    
-
+    access_key4          = "AKIAIOSFODNN5EXAMPLE"    
   })
 }
 
