@@ -147,6 +147,7 @@ resource "aws_s3_bucket" "logs" {
     git_last_modified_by = "nimrodkor@gmail.com"
     git_modifiers        = "nimrodkor"
     git_org              = "bridgecrewio"
+    access_key2           = "AKIAIOSFODNN9EXAMPLE"    
     git_repo             = "terragoat"
     yor_trace            = "01946fe9-aae2-4c99-a975-e9b0d3a4696c"
   })
