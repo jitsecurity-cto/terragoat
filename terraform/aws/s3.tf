@@ -32,6 +32,8 @@ resource "aws_s3_bucket_object" "data_object" {
     git_file             = "terraform/aws/s3.tf"
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "nimrodkor@gmail.com"
+    access_key           = "AKIAIOSFODNN7EXAMPLE"
+    access_key2          = "AKIAIOSFODNN7EXAMPLE"
     git_modifiers        = "nimrodkor"
     git_org              = "bridgecrewio"
     git_repo             = "terragoat"
